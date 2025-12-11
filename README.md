@@ -87,24 +87,11 @@ I specialize in:
 
 # 📈 Interactive GitHub Analytics
 
-<p align="center">
-  <!-- FIXED STATS -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isagarjaiswal&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=isagarjaiswal&layout=compact&theme=radical" />
-</p>
+
 
 <p align="center">
   <!-- INTERACTIVE CONTRIBUTION GRAPH -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isagarjaiswal&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-# 🎯 Featured Projects (Interactive Cards)
-
-<p align="center">
-  <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=isagarjaiswal&repo=admin-portal&theme=radical"></a>
-  <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=isagarjaiswal&repo=chrome-extension&theme=radical"></a>
 </p>
 
 ---
