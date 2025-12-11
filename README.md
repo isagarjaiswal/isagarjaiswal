@@ -1,102 +1,135 @@
-<div align="center">
-  <h1 align="center">Sagar Jaiswal</h1>
-  <h3 align="center">Senior Front-End Engineer | Next.js & TypeScript Specialist</h3>
-  
-  <p align="center">
-    <i>Building scalable, high-performance web architectures. Focused on optimization, accessibility, and automation.</i>
-  </p>
+<h1 align="center">Sagar Jaiswal</h1>
+<p align="center">
+  Full Stack Web Developer specializing in React, Next.js, TypeScript, and scalable system design
+</p>
 
-  <p align="center">
-    <a href="https://isagarjaiswal.netlify.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/isagarjaiswal/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://docs.google.com/document/d/1oheqyoGMY9uM5vHnI6LfcBPFxLk72CspkIito1SEZU8/edit?usp=sharing">
-      <img src="https://img.shields.io/badge/Resume-View%20CV-4CAF50?style=flat-square&logo=googledocs&logoColor=white" alt="Resume" />
-    </a>
-    <a href="mailto:isagarjaiswal@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
-
-<br />
-
-## 👨‍💻 About Me
-
-I am a **Web Developer with 3+ years of experience** specializing in the React ecosystem. My expertise lies in architecting scalable admin portals, optimizing frontend performance, and bridging the gap between complex backend services and intuitive user interfaces.
-
-I currently work with **Next.js, Redux Toolkit, and NestJS**, focusing on reducing operational friction. My recent work has improved admin efficiency by **40%** and reduced API response times to under **200ms** through advanced caching strategies.
+<p align="center">
+  <a href="https://docs.google.com/document/d/1oheqyoGMY9uM5vHnI6LfcBPFxLk72CspkIito1SEZU8/edit?usp=sharing">Resume</a> •
+  <a href="https://isagarjaiswal.netlify.app/">Portfolio</a> •
+  <a href="https://linkedin.com/in/isagarjaiswal/">LinkedIn</a> •
+  <a href="https://github.com/isagarjaiswal">GitHub</a>
+</p>
 
 ---
 
-## 🛠 Technical Expertise
+## Professional Overview
 
-| Domain | Tech Stack |
-| :--- | :--- |
-| **Frontend Core** | React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3 |
-| **State & Architecture** | Redux Toolkit, Context API, Zustand, React Hooks, Component Architecture |
-| **Styling & UI** | Tailwind CSS, Material UI (MUI), SCSS/SASS, Responsive Design, WCAG Accessibility |
-| **Backend & Database** | NestJS, Node.js, Express.js, PostgreSQL, MongoDB, Redis, GraphQL, REST APIs |
-| **Cloud & DevOps** | Google Cloud Platform (GCP), Docker, Vercel, Netlify, CI/CD, Git, GitHub |
-| **Tools & Integrations** | Postman, Jira, Slack, Google OAuth 2.0, WooCommerce, SFTP, Chrome DevTools |
+Full Stack Web Developer with 3 years of experience delivering production grade applications, scalable admin systems, and workflow automation solutions. Strong expertise in React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL, MongoDB, and Redis. Skilled in architecting modular UI systems, implementing secure authentication and RBAC models, optimizing performance across frontend and backend, and collaborating within Agile environments to deliver high quality software.
+
+Demonstrated impact includes improving operational efficiency by up to 40 percent, reducing API latency to sub 200ms ranges, and driving UX improvements that increased retention metrics by more than 15 percent.
 
 ---
 
-## 💼 Professional Experience
+## Technical Proficiencies
 
-### **Sav Technologies Limited** | Web Developer (Remote)
-*May 2024 — July 2025*
-> *Spearheaded the development of enterprise-grade internal tools and automated workflows.*
+### Frontend Engineering
+React.js, Next.js, JavaScript ES6+, TypeScript, Redux Toolkit, Context API, Zustand, React Hooks, Material UI, Tailwind CSS, SCSS/SASS, HTML5, CSS3, responsive interfaces, accessibility standards WCAG, Core Web Vitals, Lighthouse optimized development
 
-* **Scalability:** Built a modular Next.js admin portal supporting **10,000+ daily operations**, utilizing Redux Toolkit for robust global state management.
-* **Performance:** Engineered optimized NestJS services with Redis caching, consistently achieving API response times **<200ms**.
-* **Security:** Implemented **Google OAuth 2.0** and a granular **RBAC** system to secure sensitive data across Admin, Marketing, and Compliance roles.
-* **Automation:** Integrated SFTP feeds and GCP storage to visualize data, reducing manual administrative effort by **~40%**.
+### Backend Engineering and Services
+Node.js, Express.js, NestJS, REST APIs, GraphQL, PostgreSQL, MongoDB, Redis caching, API authentication (JWT and session based), Google OAuth 2.0, role based access control (RBAC), SFTP integrations, GCP Storage Buckets, Excel and CSV processing
 
-### **Priyam Innovations Pvt. Ltd** | Software Development Engineer - I
-*June 2023 — May 2024*
-* **Optimization:** Developed reusable React components and implemented React Suspense, boosting perceived responsiveness by **15%**.
-* **API Architecture:** Authored custom React hooks for standardized REST and GraphQL data fetching.
-* **DevOps:** Built a full-stack workflow automator using the GitHub API to streamline issue tracking and branch management.
-
-### **Software Engineer Intern**
-*Oct 2022 — May 2023*
-* Implemented rigorous form validation in React, improving data accuracy by **25%** and reducing user input errors by **15%**.
+### Platforms and Tools
+Git, GitHub, Jira, Slack, Postman, Vercel, Netlify, Chrome DevTools, npm, WordPress, WooCommerce, PHP, jQuery
 
 ---
 
-## 🚀 Featured Projects
+## Professional Experience
 
-#### 🔹 [Enterprise Admin Portal](https://github.com/isagarjaiswal)
-*Next.js, TypeScript, NestJS, PostgreSQL, Redis*
-A comprehensive dashboard enabling role-based workflows and real-time content synchronization.
-* **Key Achievement:** Reduced manual data entry by 40% via automated CSV/SFTP parsing.
-* **Tech:** GCP Storage Buckets, JWT Authentication, PDF Generation.
+### Sav Technologies Limited  
+**Web Developer**  
+May 2024 to July 2025, Dubai Remote  
 
-#### 🔹 [Sav.money Platform](https://isagarjaiswal.netlify.app/)
-*WordPress, PHP, WooCommerce, Elementor*
-Managed high-traffic landing pages and e-commerce workflows.
-* **Key Achievement:** Optimization efforts resulted in **20% faster page loads** and a **30% increase** in user engagement.
-* **Tech:** Custom Plugin Development, URL Rewrites, SEO Optimization.
+Responsible for engineering scalable administrative platforms, performance critical backend services, and system level automation supporting operational teams across product, marketing, compliance, and design.
 
-#### 🔹 [E-commerce Product Scraper](https://github.com/isagarjaiswal)
-*Chrome Extension, React (Vite), Node.js, Gemini AI*
-A browser extension designed to enrich product data for analytics.
-* **Key Achievement:** Integrated **Gemini AI API** for intelligent data normalization and implemented secure OTP authentication.
+Key Responsibilities and Achievements  
+• Architected and developed a high throughput Next.js based Admin Portal supporting more than 10K daily operations and improving administrative efficiency by 40 percent  
+• Built and optimized NestJS backend services integrating PostgreSQL, MongoDB, and Redis caching achieving API response times below 200ms  
+• Implemented secure authentication using Google OAuth 2.0, JWT verification, cookie based session handling, and multi layer RBAC models  
+• Integrated WooCommerce with internal databases enabling real time product and content synchronization  
+• Engineered Excel based data ingestion, dynamic dashboards, visual reporting, and SFTP driven data workflows  
+• Collaborated with cross functional teams to streamline releases, feature onboarding, UX improvements, and content delivery strategies
+
+Technology Environment  
+Next.js, React.js, Redux Toolkit, NestJS, Node.js, Express.js, PostgreSQL, MongoDB, TypeScript, Tailwind CSS, Material UI, Redis, GCP Buckets, WordPress, WooCommerce, PHP, jQuery, Gemini AI API
+
+#### Major Deliverables
+
+**Admin Portal Engineering (Next.js + NestJS + PostgreSQL + Redis)**  
+• Designed a modular frontend architecture with Redux slices, selectors, async service orchestration, and reusable UI components  
+• Developed dynamic dashboards using Excel datasets from GCP Storage including pagination, filtering, CSV export, and custom data processing hooks  
+• Integrated SFTP operations to fetch directory structures, preview CSV data, and deliver downloadable assets  
+• Built a highly structured RBAC model with indexed PostgreSQL tables enabling fast permission checks across multiple roles  
+• Migrated SQL driven workflows to UI based flows with validation, error handling, and backend orchestration  
+• Implemented caching strategies, key invalidation logic, and service optimization using Redis  
+• Conducted production issue triage including log analysis, payload inspection, and cross layer debugging
+
+**Corporate WordPress Platform Enhancements**  
+• Delivered custom WordPress components, landing pages, WooCommerce logic, and PHP templates  
+• Implemented SEO improvements, metadata corrections, schema rules, redirect logic, and environment wide deployments  
+• Integrated Amazon Payment Gateway and optimized product variations, checkout flows, and performance metrics
+
+**Chrome Extension for E commerce Product Intelligence**  
+• Built a full scale Chrome extension using React, Vite, Context API, and custom hooks  
+• Implemented OTP authentication, background scripts, content scripts, and popup UIs  
+• Developed custom scraping logic and normalized product data using Gemini AI powered data enrichment
 
 ---
 
-## 🎓 Education
+## Previous Experience
 
-**B.Tech, Computer Science**
-Rajiv Gandhi Proudyogiki Vishwavidyalaya | *2019 – 2023 | CGPA: 8.01*
+### Priyam Innovations Pvt. Ltd  
+**Software Development Engineer I**  
+June 2023 to May 2024  
+• Developed scalable React components using TypeScript, React Hooks, Redux Toolkit, and Suspense improving responsiveness KPIs by 15 percent  
+• Implemented GraphQL and REST endpoints and authored custom hooks for API integration consistency  
+• Built an internal admin workflow automation tool integrating GitHub API and Slack webhooks  
+• Improved MongoDB schema performance and API query efficiency
 
-<br />
+**Software Engineer Intern**  
+Oct 2022 to May 2023  
+• Built controlled form systems improving data accuracy by 25 percent and reducing validation errors  
+• Contributed to CI pipelines, PR reviews, UI fixes, and browser compatibility enhancements
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isagarjaiswal&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=555" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isagarjaiswal&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=555" height="150" alt="languages graph" />
-</div>
+---
+
+## Selected Projects
+
+### Advanced Admin Portal  
+Tech: Next.js, Redux Toolkit, Tailwind, MUI, NestJS, PostgreSQL, Redis, GCP  
+A complete administrative system supporting role based workflows, content synchronization, analytics dashboards, SFTP ingestion, and Excel based reporting. Reduced manual workload across teams by more than 40 percent.
+
+### Sav.money Platform  
+Tech: WordPress, Elementor, WooCommerce, PHP, jQuery  
+Delivered custom content templates, optimized product workflows, enhanced SEO structures, and improved page performance leading to higher engagement and reduced load times.
+
+### Chrome Extension for Product Scraping  
+Tech: React Vite, Tailwind, Context API, Chrome APIs, Node.js, Gemini AI  
+Scrapes e commerce product attributes, enriches data through AI, supports OTP authentication, and provides a clean UI for data handling.
+
+---
+
+## Education
+
+**B.Tech in Computer Science**  
+Rajiv Gandhi Proudyogiki Vishwavidyalaya  
+2019 to 2023, CGPA 8.01
+
+---
+
+## Contact and Profiles
+
+Portfolio  
+https://isagarjaiswal.netlify.app
+
+LinkedIn  
+https://linkedin.com/in/isagarjaiswal
+
+GitHub  
+https://github.com/isagarjaiswal
+
+Resume  
+https://docs.google.com/document/d/1oheqyoGMY9uM5vHnI6LfcBPFxLk72CspkIito1SEZU8/edit?usp=sharing
+
+Phone  
++91 8959829465
+
