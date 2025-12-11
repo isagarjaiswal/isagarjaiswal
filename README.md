@@ -1,135 +1,133 @@
-<h1 align="center">Sagar Jaiswal</h1>
+<!-- HEADER -->
+<h1 align="center">Hi, I'm <strong>Sagar Jaiswal</strong></h1>
 <p align="center">
-  Full Stack Web Developer specializing in React, Next.js, TypeScript, and scalable system design
+  <strong>Full Stack Web Developer</strong> specializing in React, Next.js, TypeScript, and scalable systems
 </p>
 
 <p align="center">
-  <a href="https://docs.google.com/document/d/1oheqyoGMY9uM5vHnI6LfcBPFxLk72CspkIito1SEZU8/edit?usp=sharing">Resume</a> •
-  <a href="https://isagarjaiswal.netlify.app/">Portfolio</a> •
-  <a href="https://linkedin.com/in/isagarjaiswal/">LinkedIn</a> •
-  <a href="https://github.com/isagarjaiswal">GitHub</a>
+  <a href="https://docs.google.com/document/d/1oheqyoGMY9uM5vHnI6LfcBPFxLk72CspkIito1SEZU8/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge">
+  </a>
+  <a href="https://linkedin.com/in/isagarjaiswal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://isagarjaiswal.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=react">
+  </a>
+  <a href="https://github.com/isagarjaiswal">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
-## Professional Overview
+<!-- ABOUT -->
+## Overview
 
-Full Stack Web Developer with 3 years of experience delivering production grade applications, scalable admin systems, and workflow automation solutions. Strong expertise in React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL, MongoDB, and Redis. Skilled in architecting modular UI systems, implementing secure authentication and RBAC models, optimizing performance across frontend and backend, and collaborating within Agile environments to deliver high quality software.
+I am a Full Stack Web Developer with 3 years of experience engineering production ready applications, scalable admin ecosystems, automated workflows, and performance optimized systems. My work spans React ecosystems, modern TypeScript architectures, backend services in NestJS and Node.js, and integrations across databases, cloud services, and third party platforms.
 
-Demonstrated impact includes improving operational efficiency by up to 40 percent, reducing API latency to sub 200ms ranges, and driving UX improvements that increased retention metrics by more than 15 percent.
-
----
-
-## Technical Proficiencies
-
-### Frontend Engineering
-React.js, Next.js, JavaScript ES6+, TypeScript, Redux Toolkit, Context API, Zustand, React Hooks, Material UI, Tailwind CSS, SCSS/SASS, HTML5, CSS3, responsive interfaces, accessibility standards WCAG, Core Web Vitals, Lighthouse optimized development
-
-### Backend Engineering and Services
-Node.js, Express.js, NestJS, REST APIs, GraphQL, PostgreSQL, MongoDB, Redis caching, API authentication (JWT and session based), Google OAuth 2.0, role based access control (RBAC), SFTP integrations, GCP Storage Buckets, Excel and CSV processing
-
-### Platforms and Tools
-Git, GitHub, Jira, Slack, Postman, Vercel, Netlify, Chrome DevTools, npm, WordPress, WooCommerce, PHP, jQuery
+I focus on modular UI design, API orchestration, system performance, secure authentication, and efficient developer workflows.
 
 ---
 
-## Professional Experience
+<!-- SKILLS -->
+## Tech Stack
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman,gcp" />
+
+  <!-- CMS -->
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
+---
+
+<!-- EXPERIENCE -->
+## Experience
 
 ### Sav Technologies Limited  
-**Web Developer**  
-May 2024 to July 2025, Dubai Remote  
+**Web Developer | May 2024 to July 2025 | Dubai Remote**
 
-Responsible for engineering scalable administrative platforms, performance critical backend services, and system level automation supporting operational teams across product, marketing, compliance, and design.
-
-Key Responsibilities and Achievements  
-• Architected and developed a high throughput Next.js based Admin Portal supporting more than 10K daily operations and improving administrative efficiency by 40 percent  
-• Built and optimized NestJS backend services integrating PostgreSQL, MongoDB, and Redis caching achieving API response times below 200ms  
-• Implemented secure authentication using Google OAuth 2.0, JWT verification, cookie based session handling, and multi layer RBAC models  
-• Integrated WooCommerce with internal databases enabling real time product and content synchronization  
-• Engineered Excel based data ingestion, dynamic dashboards, visual reporting, and SFTP driven data workflows  
-• Collaborated with cross functional teams to streamline releases, feature onboarding, UX improvements, and content delivery strategies
-
-Technology Environment  
-Next.js, React.js, Redux Toolkit, NestJS, Node.js, Express.js, PostgreSQL, MongoDB, TypeScript, Tailwind CSS, Material UI, Redis, GCP Buckets, WordPress, WooCommerce, PHP, jQuery, Gemini AI API
-
-#### Major Deliverables
-
-**Admin Portal Engineering (Next.js + NestJS + PostgreSQL + Redis)**  
-• Designed a modular frontend architecture with Redux slices, selectors, async service orchestration, and reusable UI components  
-• Developed dynamic dashboards using Excel datasets from GCP Storage including pagination, filtering, CSV export, and custom data processing hooks  
-• Integrated SFTP operations to fetch directory structures, preview CSV data, and deliver downloadable assets  
-• Built a highly structured RBAC model with indexed PostgreSQL tables enabling fast permission checks across multiple roles  
-• Migrated SQL driven workflows to UI based flows with validation, error handling, and backend orchestration  
-• Implemented caching strategies, key invalidation logic, and service optimization using Redis  
-• Conducted production issue triage including log analysis, payload inspection, and cross layer debugging
-
-**Corporate WordPress Platform Enhancements**  
-• Delivered custom WordPress components, landing pages, WooCommerce logic, and PHP templates  
-• Implemented SEO improvements, metadata corrections, schema rules, redirect logic, and environment wide deployments  
-• Integrated Amazon Payment Gateway and optimized product variations, checkout flows, and performance metrics
-
-**Chrome Extension for E commerce Product Intelligence**  
-• Built a full scale Chrome extension using React, Vite, Context API, and custom hooks  
-• Implemented OTP authentication, background scripts, content scripts, and popup UIs  
-• Developed custom scraping logic and normalized product data using Gemini AI powered data enrichment
-
----
-
-## Previous Experience
+• Developed a large scale Next.js Admin Portal supporting 10K+ daily operations and improving efficiency by 40 percent  
+• Built optimized NestJS services integrating PostgreSQL, MongoDB, Redis, and TypeORM achieving consistent sub 200ms latency  
+• Implemented Google OAuth 2.0, JWT sessions, and RBAC with fine granular permissions  
+• Engineered GCP Excel ingestion, analytics dashboards, and SFTP driven data workflows  
+• Integrated WooCommerce sync workflows enabling real time content and product updates  
+• Contributed to UX optimization improving retention metrics by 15 percent  
+• Managed production debugging, log analysis, and performance triage across frontend and backend  
 
 ### Priyam Innovations Pvt. Ltd  
-**Software Development Engineer I**  
-June 2023 to May 2024  
-• Developed scalable React components using TypeScript, React Hooks, Redux Toolkit, and Suspense improving responsiveness KPIs by 15 percent  
-• Implemented GraphQL and REST endpoints and authored custom hooks for API integration consistency  
-• Built an internal admin workflow automation tool integrating GitHub API and Slack webhooks  
-• Improved MongoDB schema performance and API query efficiency
+**Software Development Engineer I | June 2023 to May 2024**
 
-**Software Engineer Intern**  
-Oct 2022 to May 2023  
-• Built controlled form systems improving data accuracy by 25 percent and reducing validation errors  
-• Contributed to CI pipelines, PR reviews, UI fixes, and browser compatibility enhancements
+• Developed reusable frontend components using TypeScript, React Hooks, Redux Toolkit, and Suspense  
+• Implemented GraphQL and REST endpoints with custom API handling hooks  
+• Built workflow automation using GitHub API and Slack Webhooks  
+• Improved MongoDB performance through schema tuning and optimized queries  
+
+**Software Engineer Intern | Oct 2022 to May 2023**  
+• Built controlled forms improving data accuracy by 25 percent  
+• Ensured responsive, cross browser UI and supported CI, releases, and PR workflows
 
 ---
 
-## Selected Projects
+<!-- PROJECTS -->
+## Projects
 
 ### Advanced Admin Portal  
 Tech: Next.js, Redux Toolkit, Tailwind, MUI, NestJS, PostgreSQL, Redis, GCP  
-A complete administrative system supporting role based workflows, content synchronization, analytics dashboards, SFTP ingestion, and Excel based reporting. Reduced manual workload across teams by more than 40 percent.
+• Role based admin system with WooCommerce sync, Excel dashboards, and SFTP ingestion workflows  
+• Reduced manual operational workload by 40 percent
 
 ### Sav.money Platform  
-Tech: WordPress, Elementor, WooCommerce, PHP, jQuery  
-Delivered custom content templates, optimized product workflows, enhanced SEO structures, and improved page performance leading to higher engagement and reduced load times.
+Tech: WordPress, Elementor, WooCommerce, PHP  
+• Custom templates, optimized product workflows, SEO enhancements, and faster load times
 
-### Chrome Extension for Product Scraping  
-Tech: React Vite, Tailwind, Context API, Chrome APIs, Node.js, Gemini AI  
-Scrapes e commerce product attributes, enriches data through AI, supports OTP authentication, and provides a clean UI for data handling.
+### Chrome Extension: Product Intelligence  
+Tech: React Vite, Tailwind, Chrome APIs, Node.js, Gemini AI  
+• Scrapes product data from ecommerce sites, enriches it via AI, and syncs to backend  
+• Supports OTP authentication and cross context UI flows
 
 ---
 
+<!-- EDUCATION -->
 ## Education
 
 **B.Tech in Computer Science**  
 Rajiv Gandhi Proudyogiki Vishwavidyalaya  
-2019 to 2023, CGPA 8.01
+CGPA 8.01
 
 ---
 
-## Contact and Profiles
+<!-- CONTACT -->
+## Connect with Me  
+<p align="left">
+  <a href="https://linkedin.com/in/isagarjaiswal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="https://isagarjaiswal.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=react">
+  </a>
+  <a href="https://github.com/isagarjaiswal">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github">
+  </a>
+</p>
 
-Portfolio  
-https://isagarjaiswal.netlify.app
+**Phone:** +91 8959829465  
+**Resume:** https://docs.google.com/document/d/1oheqyoGMY9uM5vHnI6LfcBPFxLk72CspkIito1SEZU8/edit?usp=sharing
 
-LinkedIn  
-https://linkedin.com/in/isagarjaiswal
+---
 
-GitHub  
-https://github.com/isagarjaiswal
-
-Resume  
-https://docs.google.com/document/d/1oheqyoGMY9uM5vHnI6LfcBPFxLk72CspkIito1SEZU8/edit?usp=sharing
-
-Phone  
-+91 8959829465
-
+<p align="center"><i>Thank you for visiting my profile</i></p>
