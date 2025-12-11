@@ -1,28 +1,27 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Sagar+Jaiswal;Full+Stack+Web+Developer;React+%26+Next.js+Specialist;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hi,+I'm+Sagar+Jaiswal;Full+Stack+Web+Developer;React+%26+Next.js+Specialist;Building+Scalable+Systems" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isagarjaiswal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" alt="Focus" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue" alt="Experience" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=isagarjaiswal&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Web Developer** with **3+ years of hands-on experience** engineering production-grade applications, scalable admin ecosystems, and high-performance systems. I specialize in building: 
+I'm a **Full Stack Web Developer** with **3+ years** of experience building scalable applications, admin ecosystems, automation pipelines, and high-performance backend services.
 
-- 🏗️ **Large-scale admin portals** handling 10K+ daily operations
-- ⚡ **High-performance backend services** with sub-200ms latency
-- 🎨 **Modular, accessible UI components** with React & Next.js
-- 🔐 **Secure authentication systems** with OAuth2, JWT, and RBAC
-- 📊 **Data pipelines** and analytics dashboards with GCP integration
-- 🚀 **Developer-friendly workflows** improving team efficiency by 40%+
-
-**My Philosophy:** Clean code, scalable architecture, and user-centric design. 
+I specialize in:  
+- 🏗️ Large-scale **Next.js admin portals**  
+- ⚡ Fast APIs with **NestJS, PostgreSQL, Redis**  
+- 🎨 Modular UIs with **React + TypeScript**  
+- 🔐 Secure authentication (**OAuth2, JWT, RBAC**)  
+- 📊 Data ingestion + dashboards (**GCP, SFTP, Excel pipelines**)  
+- 🚀 Automation + Dev workflows (40% efficiency boost)
 
 ---
 
@@ -30,238 +29,132 @@ I'm a **Full Stack Web Developer** with **3+ years of hands-on experience** engi
 
 <p align="center">
   <a href="https://docs.google.com/document/d/1oheqyoGMY9uM5vHnI6LfcBPFxLk72CspkIito1SEZU8/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/📄%20Resume-Download-blue? style=for-the-badge&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-Download-1e90ff?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <a href="https://isagarjaiswal.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-brightgreen?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00c853?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/isagarjaiswal/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/📧%20Email-Contact-red?style=for-the-badge&logoColor=white" alt="Email" />
+  <a href="mailto:sagar@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+# ⭐ **New Interactive Feature: Skill Cards**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isagarjaiswal&theme=radical" />
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
-### **Languages**
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,python" alt="Languages" />
+<details open>
+<summary><strong>Languages</strong></summary>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,python" />
+</details>
 
-### **Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,vite" alt="Frontend" />
+<details open>
+<summary><strong>Frontend Mastery</strong></summary>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,vite" />
+</details>
 
-### **Backend & APIs**
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" alt="Backend" />
+<details open>
+<summary><strong>Backend & APIs</strong></summary>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
+</details>
 
-### **Databases & Caching**
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Databases" />
+<details open>
+<summary><strong>Databases & Caching</strong></summary>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</details>
 
-### **DevOps & Cloud**
-<img src="https://skillicons.dev/icons?i=gcp,docker,git,github" alt="DevOps" />
+<details open>
+<summary><strong>DevOps & Cloud</strong></summary>
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github" />
+</details>
 
-### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=postman,wordpress,figma" alt="Tools" />
+<details open>
+<summary><strong>Tools & Platforms</strong></summary>
+<img src="https://skillicons.dev/icons?i=postman,wordpress,figma" />
+</details>
 
 ---
 
-## 📈 GitHub Statistics
+# 📈 Interactive GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=isagarjaiswal&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=isagarjaiswal&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <!-- FIXED STATS -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isagarjaiswal&show_icons=true&theme=radical&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=isagarjaiswal&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isagarjaiswal&theme=radical&hide_border=true" alt="Activity Graph" />
+  <!-- INTERACTIVE CONTRIBUTION GRAPH -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isagarjaiswal&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 💼 Professional Experience
+# 🎯 Featured Projects (Interactive Cards)
 
-### **Sav Technologies Limited** | Dubai Remote
-**Web Developer** | May 2024 – July 2025
-
-**Key Achievements:**
-- 🎯 Built a **large-scale Next.js Admin Portal** supporting 10K+ daily operations
-  - Improved operational efficiency by **~40%**
-  - Implemented role-based access control with fine-grained permissions
-  - Integrated WooCommerce sync workflows for real-time updates
-  
-- ⚙️ Architected **NestJS microservices** with optimized database schemas
-  - PostgreSQL, MongoDB, and Redis integration
-  - Achieved consistent **sub-200ms latency** across all endpoints
-  - Implemented custom caching strategies reducing database load by 30%
-  
-- 🔐 Implemented **enterprise-grade authentication**
-  - Google OAuth 2.0, JWT sessions, and RBAC
-  - Secure API design following industry best practices
-  
-- 📊 Engineered **data automation workflows**
-  - GCP Excel ingestion pipelines
-  - SFTP-driven file processing systems
-  - Real-time analytics dashboards
-  
-- 📱 **UX Optimization** improving user retention by **~15%**
-  - Performance monitoring and log analysis
-  - Cross-browser testing and debugging
-  - Accessibility improvements (WCAG compliance)
+<p align="center">
+  <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=isagarjaiswal&repo=admin-portal&theme=radical"></a>
+  <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=isagarjaiswal&repo=chrome-extension&theme=radical"></a>
+</p>
 
 ---
 
-### **Priyam Innovations Pvt. Ltd** | India
-**Software Development Engineer I** | June 2023 – May 2024
+# 💼 Professional Experience
 
-- Built **reusable, type-safe components** using TypeScript, React Hooks, Redux Toolkit, and Suspense
-- Designed and implemented **GraphQL & REST endpoints** with custom API client hooks
-- Automated **CI/CD workflows** using GitHub API and Slack webhook integrations
-- Optimized **MongoDB performance** through schema redesign and query optimization
-- Improved data accuracy by **~25%** through form validation strategies
+<details open>
+<summary><strong>Sav Technologies Limited — Web Developer (2024–2025)</strong></summary>
 
-**Software Engineer Intern** | Oct 2022 – May 2023
-- Developed controlled forms with advanced validation patterns
-- Ensured responsive, accessible UI across all devices and browsers
-- Contributed to CI/CD pipeline automation and PR workflows
+- Built Next.js Admin Portal supporting 10k+ daily ops  
+- 40% reduction in manual workload  
+- Sub-200ms NestJS microservices with Redis caching  
+- OAuth2, JWT, RBAC, secure route guards  
+- GCP Excel ingestion, SFTP file pipelines, real-time dashboards  
+- UX optimizations improved retention by 15%
 
----
+</details>
 
-## 🎯 Featured Projects
+<details open>
+<summary><strong>Priyam Innovations — SDE I (2023–2024)</strong></summary>
 
-### **Advanced Admin Portal** 🏆
-**Tech Stack:** Next.js, Redux Toolkit, Tailwind CSS, MUI, NestJS, PostgreSQL, Redis, GCP
+- Type-safe reusable React components  
+- GraphQL + REST API hooks  
+- GitHub API automation workflows  
+- MongoDB optimization and scalable schemas  
 
-A comprehensive administrative system built for enterprise-scale operations: 
-- Role-based access control with dynamic permissions
-- WooCommerce inventory & product sync (real-time)
-- Excel dashboard generation and SFTP file ingestion
-- Performance metrics tracking and operational analytics
-- Reduced manual workload by **~40%**, saved 20+ hours/week
-
-**[View Repository](#)** | **[Live Demo](#)**
+</details>
 
 ---
 
-### **Sav. money Platform** 💰
-**Tech Stack:** WordPress, Elementor, WooCommerce, PHP, Custom JS
-
-A fintech-focused e-commerce platform with optimizations: 
-- Custom Elementor templates and WooCommerce integration
-- SEO-optimized product pages
-- Reduced page load time by **~35%** (Core Web Vitals improvement)
-- Improved conversion funnel and user engagement
-
----
-
-### **Chrome Extension:  Product Intelligence** 🤖
-**Tech Stack:** React (Vite), Tailwind CSS, Chrome APIs, Node.js, Gemini AI
-
-An intelligent product data enrichment tool:
-- Scrapes and enriches product data from e-commerce sites using AI
-- OTP-based authentication with secure backend sync
-- Cross-context UI with real-time updates
-- Supports batch processing and export to multiple formats
-
-**[Install Extension](#)** | **[GitHub Repo](#)**
-
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science**  
+# 🎓 Education
+**B.Tech — Computer Science**  
 Rajiv Gandhi Proudyogiki Vishwavidyalaya  
-CGPA: 8.01/10.0
+CGPA 8.01/10
 
 ---
 
-## 🔥 What I'm Passionate About
-
-✨ Building **scalable, maintainable systems** that solve real problems  
-✨ Mentoring junior developers and sharing knowledge  
-✨ Contributing to **open-source projects**  
-✨ Exploring emerging technologies (AI/ML, Web3, Performance Optimization)  
-✨ Writing technical blogs and documenting best practices  
-
----
-
-## 📊 Specializations
-
-| Area | Expertise | Level |
-|------|-----------|-------|
-| **Frontend** | React, Next.js, TypeScript | ⭐⭐⭐⭐⭐ |
-| **Backend** | Node.js, NestJS, Express | ⭐⭐⭐⭐⭐ |
-| **Databases** | PostgreSQL, MongoDB, Redis | ⭐⭐⭐⭐ |
-| **APIs** | REST, GraphQL, tRPC | ⭐⭐⭐⭐⭐ |
-| **DevOps** | GCP, Docker, CI/CD | ⭐⭐⭐⭐ |
-| **Performance** | Optimization, Caching, Monitoring | ⭐⭐⭐⭐⭐ |
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-I'm always excited to work on **challenging projects**, **mentor aspiring developers**, and **collaborate with talented teams**. Whether you're looking for: 
-
-- 💼 **Full-time/Contract roles** in full-stack development
-- 🎓 **Mentorship** or technical guidance
-- 🚀 **Partnership** on open-source initiatives
-- 💬 **Technical discussions** or code reviews
-
-**Feel free to reach out! **
+# 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/isagarjaiswal/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/isagarjaiswal">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://isagarjaiswal.netlify. app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://twitter.com/isagarjaiswal">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:sagar@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://linkedin.com/in/isagarjaiswal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/isagarjaiswal"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sagar@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://isagarjaiswal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00c853?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📞 Contact Information
-
-- **Email:** sagar@example. com *(update with your actual email)*
-- **Phone:** +91 8959829465
-- **Resume:** [Google Docs Link](https://docs.google.com/document/d/1oheqyoGMY9uM5vHnI6LfcBPFxLk72CspkIito1SEZU8/edit?usp=sharing)
-- **Portfolio:** https://isagarjaiswal.netlify.app/
-- **LinkedIn:** https://linkedin.com/in/isagarjaiswal/
-
----
-
-## 🌟 Fun Facts
-
-- 🔬 I love **experimenting** with new technologies and frameworks
-- 📚 Regular **technical blog writer** sharing insights on performance optimization
-- 🎮 Enjoy **gaming** and building gaming-related projects in my spare time
-- 🌍 Open to **remote opportunities** worldwide
-- 💡 Believer in **continuous learning** and skill development
-
----
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<p align="center">
-  <strong>💝 Thank you for visiting my profile! Let's build something amazing together. </strong>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Separator" />
-</p>
-
-<p align="center">
-  <em>"Code is poetry, and every project is a masterpiece in progress."</em>
-</p>
+<p align="center"><em>"Code is poetry. Scalable systems are the masterpiece."</em></p>
