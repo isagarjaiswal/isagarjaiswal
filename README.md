@@ -13,15 +13,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Web Developer** with **3+ years** of experience building scalable applications, admin ecosystems, automation pipelines, and high-performance backend services.
+I'm a **Full Stack Web Developer** with **3+ years** of experience delivering scalable applications, admin ecosystems, automation workflows, and high-performance backend services.
 
-I specialize in:  
-- 🏗️ Large-scale **Next.js admin portals**  
-- ⚡ Fast APIs with **NestJS, PostgreSQL, Redis**  
-- 🎨 Modular UIs with **React + TypeScript**  
-- 🔐 Secure authentication (**OAuth2, JWT, RBAC**)  
-- 📊 Data ingestion + dashboards (**GCP, SFTP, Excel pipelines**)  
-- 🚀 Automation + Dev workflows (40% efficiency boost)
+I specialize in:
+- 🏗️ Enterprise **Next.js admin portals**
+- ⚡ High-performance APIs with **NestJS, PostgreSQL, Redis**
+- 🎨 Modular UI architectures with **React + TypeScript**
+- 🔐 Secure authentication (**OAuth2, JWT, RBAC**)
+- 📊 Data ingestion workflows (**GCP, SFTP, Excel pipelines**)
+- 🚀 Engineering automation and developer tooling (40% efficiency gains)
 
 ---
 
@@ -44,7 +44,7 @@ I specialize in:
 
 ---
 
-# ⭐ **New Interactive Feature: Skill Cards**
+# ⭐ Interactive Skill Cards
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isagarjaiswal&theme=radical" />
 </p>
@@ -59,7 +59,7 @@ I specialize in:
 </details>
 
 <details open>
-<summary><strong>Frontend Mastery</strong></summary>
+<summary><strong>Frontend</strong></summary>
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,vite" />
 </details>
 
@@ -74,23 +74,20 @@ I specialize in:
 </details>
 
 <details open>
-<summary><strong>DevOps & Cloud</strong></summary>
+<summary><strong>Cloud & DevOps</strong></summary>
 <img src="https://skillicons.dev/icons?i=gcp,docker,git,github" />
 </details>
 
 <details open>
-<summary><strong>Tools & Platforms</strong></summary>
+<summary><strong>Tools</strong></summary>
 <img src="https://skillicons.dev/icons?i=postman,wordpress,figma" />
 </details>
 
 ---
 
-# 📈 Interactive GitHub Analytics
-
-
+# 📈 GitHub Analytics
 
 <p align="center">
-  <!-- INTERACTIVE CONTRIBUTION GRAPH -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isagarjaiswal&theme=react-dark&hide_border=true" />
 </p>
 
@@ -101,31 +98,32 @@ I specialize in:
 <details open>
 <summary><strong>Sav Technologies Limited — Web Developer (2024–2025)</strong></summary>
 
-- Built Next.js Admin Portal supporting 10k+ daily ops  
-- 40% reduction in manual workload  
-- Sub-200ms NestJS microservices with Redis caching  
-- OAuth2, JWT, RBAC, secure route guards  
-- GCP Excel ingestion, SFTP file pipelines, real-time dashboards  
-- UX optimizations improved retention by 15%
+- Built an enterprise-grade Next.js Admin Portal supporting 10k+ daily operations  
+- Reduced manual workload by **40 percent** through automation  
+- Engineered sub-200ms microservices with NestJS and Redis caching  
+- Implemented OAuth2, JWT, RBAC, and secure route guards  
+- Developed Excel ingestion, SFTP pipelines, and real-time dashboards  
+- Improved UX and retention by **15 percent** through performance optimization  
 
 </details>
 
 <details open>
-<summary><strong>Priyam Innovations — SDE I (2023–2024)</strong></summary>
+<summary><strong>Priyam Innovations — Software Development Engineer I (2023–2024)</strong></summary>
 
-- Type-safe reusable React components  
-- GraphQL + REST API hooks  
-- GitHub API automation workflows  
-- MongoDB optimization and scalable schemas  
+- Built reusable and scalable React components  
+- Integrated GraphQL and REST APIs with custom hook architectures  
+- Automated workflows using GitHub API and Slack notifications  
+- Optimized MongoDB schemas and query performance  
 
 </details>
 
 ---
 
 # 🎓 Education
+
 **B.Tech — Computer Science**  
 Rajiv Gandhi Proudyogiki Vishwavidyalaya  
-CGPA 8.01/10
+CGPA: **8.01/10**
 
 ---
 
