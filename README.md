@@ -105,13 +105,11 @@ I work across the full stack with modern, production ready technologies.
 
 ### Frontend Developer at Epsilon (2026 to present)
 
-- Built a production scale **Next.js admin portal** supporting over 10k daily operations  
-- Reduced manual workload by **40 percent** through automation  
-- Designed **NestJS microservices** with sub 200ms response times  
-- Implemented OAuth2, JWT authentication, and RBAC based authorization  
-- Developed Excel ingestion pipelines, SFTP integrations, and real time dashboards  
-- Improved UX performance and user retention by **15 percent**
-
+- Architected and maintained a modular React + TypeScript component library, standardising UI patterns across the team and cutting feature delivery time.
+- Integrated data-driven interfaces with optimised API flows, improving data handling reliability and overall user experience.
+- Built and tested responsive email templates across 30+ email clients, achieving consistent rendering and reducing QA issues.
+- Developed and integrated Node.js/NestJS APIs to support frontend features, improving data flow efficiency and reducing frontend-backend integration effort.
+  
 ### Software Development Engineer II at Priyam Innovations (2024 to 2025)
 
 - Built a production scale **Next.js admin portal** supporting over 10k daily operations  
