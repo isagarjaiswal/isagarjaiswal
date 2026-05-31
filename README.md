@@ -41,7 +41,7 @@ My core expertise includes **React and Next.js frontend development**, **NestJS 
   <a href="https://linkedin.com/in/isagarjaiswal/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sagar.jaiswal.dev@gmail.com">
+  <a href="mailto:isaagarjaiswal@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
