@@ -103,7 +103,16 @@ I work across the full stack with modern, production ready technologies.
 
 ## Professional Experience
 
-### Web Developer at Sav Technologies Limited (2024 to 2025)
+### Frontend Developer at Epsilon (2026 to present)
+
+- Built a production scale **Next.js admin portal** supporting over 10k daily operations  
+- Reduced manual workload by **40 percent** through automation  
+- Designed **NestJS microservices** with sub 200ms response times  
+- Implemented OAuth2, JWT authentication, and RBAC based authorization  
+- Developed Excel ingestion pipelines, SFTP integrations, and real time dashboards  
+- Improved UX performance and user retention by **15 percent**
+
+### Software Development Engineer II at Priyam Innovations (2024 to 2025)
 
 - Built a production scale **Next.js admin portal** supporting over 10k daily operations  
 - Reduced manual workload by **40 percent** through automation  
